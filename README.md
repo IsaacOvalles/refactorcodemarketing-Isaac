@@ -7,9 +7,9 @@ UT Coding Bootcamp Refactoring Project
 Refactoring project intended to inprove the cusotmer's website functionality and making the code more efficient and maintainable for future coders.
 
 # Badges:
-https://img.shields.io/github/followers/IsaacOvalles?style=social
-https://github.com/IsaacOvalles/refactorcodemarketing-Isaac.git
-https://github.com/IsaacOvalles/refactorcodemarketing-Isaac
+[Followers](https://img.shields.io/github/followers/IsaacOvalles?style=social) 
+[Repository](https://github.com/IsaacOvalles/refactorcodemarketing-Isaac.git)
+[Repository-Page](https://github.com/IsaacOvalles/refactorcodemarketing-Isaac)
 # Visuals:
 ![](https://commonmark.org/help/images/favicon.png) this shows the image from the URL
 
@@ -25,8 +25,8 @@ Contact [Horiseon Social Solution Services, Inc.](www.horiseon.com)
 # Roadmap:
 * Future website features:
     1) Make `<div class="search-engine-optimization">` box as a hyperlink to a Search Engine Optimization page.
-    2) Make `<div class="search-engine-optimization">` box as a hyperlink to a Search Engine Optimization page.
-    3) Make `<div class="search-engine-optimization">` box as a hyperlink to a Search Engine Optimization page.
+    2) Make `<div class="online-reputation-management">` box as a hyperlink to a Search Engine Optimization page.
+    3) Make `<div class="social-media-marketing">` box as a hyperlink to a Search Engine Optimization page.
 # Contributing:
 https://img.shields.io/github/contributors/IsaacOvalles/refactorcodemarketing-Isaac
 # Authors & Acknowledgment:

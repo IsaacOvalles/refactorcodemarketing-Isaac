@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
 body {
     background-color: #d9dcd6;
 }
@@ -197,4 +201,9 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+/* added color to the company website in the footer */
+.footerweb {
+    color: black;
 }

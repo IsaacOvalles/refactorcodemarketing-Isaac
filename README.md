@@ -23,6 +23,21 @@ Contact [Horiseon Social Solution Services, Inc.](www.horiseon.com)
     1) Make `<div class="search-engine-optimization">` box as a hyperlink to a Search Engine Optimization page.
     2) Make `<div class="online-reputation-management">` box as a hyperlink to a Search Engine Optimization page.
     3) Make `<div class="social-media-marketing">` box as a hyperlink to a Search Engine Optimization page.
+* Streamline the following html code to group like elements with the css counterparts:
+    * HTML:
+        * `<div class="benefit-lead">`
+        * `<div class="benefit-brand">`
+        * `<div class="benefit-cost">`
+    * CSS
+        * `.benefit-lead`
+        * `.benefit-brand`
+        * `.benefit-cost`
+        * `.benefit-lead h3`
+        * `.benefit-brand h3`
+        * `.benefit-cost h3`
+        * `.benefit-lead img`
+        * `.benefit-brand img`
+        * `.benefit-cost img`
 # Contributing:
 https://img.shields.io/github/contributors/IsaacOvalles/refactorcodemarketing-Isaac
 # Authors & Acknowledgment:

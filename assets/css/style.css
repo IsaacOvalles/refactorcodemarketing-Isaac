@@ -63,14 +63,18 @@ p {
     background-position: center;
 }
 
+/* added a border around the images */
 .float-left {
     float: left;
     margin-right: 25px;
+    border: 5px solid white;
 }
 
+/* added a border around the image */
 .float-right {
     float: right;
     margin-left: 25px;
+    border: 5px solid white;
 }
 
 section {
@@ -203,7 +207,13 @@ footer h2 {
     font-size: 20px;
 }
 
-/* added color to the company website in the footer */
+/* added color to the company About Us link in the footer */
 .footerweb {
     color: black;
+}
+
+/* added color to the company website in the footer */
+.footeraboutus {
+    color: black;
+    font-weight: bold;
 }

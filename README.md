@@ -1,25 +1,21 @@
 Project development is ongoing.
 
 # Name:
-UT Coding Bootcamp Refactoring Project
+UT Coding Bootcamp Refactor Project
 
 # Description:
 Refactoring project intended to inprove the cusotmer's website functionality and making the code more efficient and maintainable for future coders.
 
 # Badges:
-[Followers](https://img.shields.io/github/followers/IsaacOvalles?style=social) 
-[Repository](https://github.com/IsaacOvalles/refactorcodemarketing-Isaac.git)
-[Repository-Page](https://github.com/IsaacOvalles/refactorcodemarketing-Isaac)
+* [Followers](https://img.shields.io/github/followers/IsaacOvalles?style=social) 
+* [Repository](https://github.com/IsaacOvalles/refactorcodemarketing-Isaac.git)
+* [Repository-Page](https://github.com/IsaacOvalles/refactorcodemarketing-Isaac)
 # Visuals:
-![](https://commonmark.org/help/images/favicon.png) this shows the image from the URL
 
-![Logo][1]
-
-[1]: https://commonmark.org/help/images/favicon.png "Creative Commons licensed" adds alternate text and title to image
 # Installation:
 
 # Usage:
-
+[Activity](https://img.shields.io/github/commit-activity/y/IsaacOvalles/refactorcodemarketing-Isaac)
 # Support:
 Contact [Horiseon Social Solution Services, Inc.](www.horiseon.com)
 # Roadmap:
@@ -33,13 +29,3 @@ https://img.shields.io/github/contributors/IsaacOvalles/refactorcodemarketing-Is
 https://github.com/IsaacOvalles/refactorcodemarketing-Isaac.git
 # License:
 https://img.shields.io/github/license/IsaacOvalles/refactorcodemarketing-Isaac
-
-
-
-[University of Rwanda](http://www.ur.ac.rw) inline hyperlink
-
-![](https://commonmark.org/help/images/favicon.png) this shows the image from the URL
-
-![Logo][1]
-
-[1]: https://commonmark.org/help/images/favicon.png "Creative Commons licensed" adds alternate text and title to image
